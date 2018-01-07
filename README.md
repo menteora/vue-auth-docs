@@ -1,4 +1,4 @@
-# vue-auth-docs
+# Documentation about Vue & Authentication
 
 ## Authentication with Firebase
 
