@@ -6,5 +6,8 @@
 
 - [Vue + Vuetify + Firebase DevMeetup YouTube Project](https://www.youtube.com/playlist?list=PL55RiY5tL51qxUbODJG9cgrsVd7ZHbPrt) - **[Repository](https://github.com/academind/yt-devmeetup-vue-firebase)**
 
+
+- [Vue Firebase Vuetify with Vuex module - **Repository**](https://github.com/aofdev/vue-firebase-auth-vuex)
+
 ## Best Practise
 - [Route Meta Fields](https://router.vuejs.org/en/advanced/meta.html)
